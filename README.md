@@ -135,3 +135,11 @@ If you build something cool with it (especially hardware, quantum sensing, space
 Live site: https://fitzyracing1.github.io/free-n-protocol/
 GitHub: https://github.com/fitzyracing1/free-n-protocol
 ```
+
+## Plans
+
+This project is free, and its license stays as is. Support it through [GitHub Sponsors](https://github.com/sponsors/fitzyracing1):
+
+- **Free**: use the code, community support.
+- **Pro ($49/month)**: priority issues and support.
+- **Team ($199/month)**: priority support for your team plus early access.
